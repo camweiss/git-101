@@ -1,6 +1,12 @@
 head {
 	margin: 0;
 }
+
+h1{
+	font-weight: 100;
+
+}
+
 body {
 	margin: 50;
 	font-family: Helvetica
